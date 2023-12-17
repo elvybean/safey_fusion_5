@@ -5,4 +5,4 @@
 - Possibly print model out of metal
 - Model will consist of multiple components:
     - connector: connects to the razor 5 handle
-    - razor_head: holds the razor blade
+    - razorhead: holds the razor blade
