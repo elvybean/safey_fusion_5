@@ -1,9 +1,9 @@
 # Safey Fusion 5
-3D modeling project for the purpose of self teaching how to use OpenSCAD
+3D modeling project for the purpose of self teaching how to use [OpenSCAD](https://openscad.org/)
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+The project *will* consist of 3D model of a Gillettte Fusion 5 Razor head that can fit standard safety razor it *will be* similiar to the Leafy razor; it *will* incorporate the shape of the Fusion 5 Razor head + head of a safety razor 
 
 ## Authors
 
