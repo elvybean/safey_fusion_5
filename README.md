@@ -3,7 +3,7 @@
 
 ## Description
 
-The project *will* consist of 3D model of a Gillettte Fusion 5 Razor head that can fit standard safety razor it *will be* similiar to the Leafy razor; it *will* incorporate the shape of the Fusion 5 Razor head + head of a safety razor 
+The project *will* consist of 3D model of a Gillettte Fusion 5 Razor head that can fit standard safety razor it *will* incorporate the shape of the Fusion 5 Razor head + head of a safety razor 
 
 ## Authors
 
